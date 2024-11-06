@@ -4,4 +4,6 @@ This repository houses data and scripts used in the Ancient Genotyped Variants p
 
 - The scripts directory contains all scripts used in the analysis for data generation, analysis, and visualization.
 
+- The dash app that allows users to quickly identify ancient genotyped variants linked to a variant of interest will be linked here.
+
 Do not hesitate to reach out with questions or comments on any aspect of this work: colin.brand@ucsf.edu and tony@capralab.org.
